@@ -1,0 +1,40 @@
+/*   
+Theme Name: Same Same Paris
+Theme URI: 
+Description: A theme for samesameparis.com
+Author: Please Press Play
+Author URI: http://www.pleasepressplay.net
+Template: roots
+Version: 1.0
+Tags: BoilerPlate, HTML5, CSS3
+.
+.
+*/
+
+footer .span3 {
+	padding-left:19px;
+	
+}
+footer address.span3{
+	width: 152px;
+	margin-left: 3px;
+}
+
+body > footer address p {
+font-size: 0.6em;
+
+
+}
+
+body > footer address h3 {
+font-size: 0.7em;
+
+}
+
+
+.social a {
+
+margin-right: 2px;
+}
+
+footer .social{float:right;}
